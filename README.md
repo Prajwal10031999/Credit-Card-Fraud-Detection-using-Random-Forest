@@ -20,7 +20,7 @@ has been found to provide a good estimate of the
 generalization error and to be resistant to over fitting. <br />
 
 The output looks like : 
-![Screenshot](credit1.png)
-![Screenshot](credit2.png)
-![Screenshot](credit3.png)
+![Screenshot](credit1.PNG)
+![Screenshot](credit2.PNG)
+![Screenshot](credit3.PNG)
 
